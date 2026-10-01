@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Jarvis Mobile",
+    "slug": "jarvis-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.anzar54.jarvismobile",
+      "permissions": ["RECORD_AUDIO"]
+    }
+  }
+}
